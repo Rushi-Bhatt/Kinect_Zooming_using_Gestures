@@ -1,0 +1,22 @@
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1_MarkupCompile.cache
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.g.resources
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.Properties.Resources.resources
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.csproj.GenerateResource.Cache
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.exe
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.pdb
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.exe
+c:\users\rushi bhatt\documents\visual studio 2010\Projects\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.pdb
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.exe
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.pdb
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.exe
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\bin\Debug\KinectSkeletonApplication1.pdb
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.baml
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\App.g.cs
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1_MarkupCompile.cache
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.g.resources
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.Properties.Resources.resources
+E:\KinectSkeletonApplication1\KinectSkeletonApplication1\obj\x86\Debug\KinectSkeletonApplication1.csproj.GenerateResource.Cache
